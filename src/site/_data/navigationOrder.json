@@ -1,8 +1,18 @@
 {
   "/": [
-    "Home Page"
+    "Home Page",
+    "OCs"
   ],
   "/Home Page": [
-    "Welcome to Scarsenverse"
+    "Welcome to Scarsenverse",
+    "Q&A (possibly)"
+  ],
+  "/OCs": [
+    "Eli",
+    "Glam",
+    "Green Thumb",
+    "Orion",
+    "Skinboy",
+    "Tadpole"
   ]
 }
