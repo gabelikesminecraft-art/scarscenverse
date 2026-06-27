@@ -2,7 +2,11 @@
 {"dg-publish":true,"permalink":"/o-cs/skinboy/","dg-note-properties":{}}
 ---
 
-
+NAME: Skinboy
+AGE: 78 (October 30th)
+GENDER: It/They/Any, Genderless
+SPECIES: [[Species/Divine\|Divine]]
+HEIGHT: 4' 11''
 
 Skinboy is a gleeful roaming specter who interacts very little when 'not in use' by the (or another) Voidstar([[Species/Divine\|Divine]]), it serves as a loyal servant who does any task best of ability usually for nothing at all. Skinboy's main body is its head, with the rest being slightly 'transparent' and blurry like a fog roams within it. Usually the body is covered in stars or rarely a suit for 'special occasions'. Skinboy strives to be another voidstar one day, or equal too it, trying to learn as much as it can either on its own or with other 'resources' although it doesn't know what being one means or does 
 
