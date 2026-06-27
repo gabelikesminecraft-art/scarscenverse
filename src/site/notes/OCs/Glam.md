@@ -16,7 +16,7 @@ Glam can really do about anything he wants, but is limited when in his own reali
 
 This event would send Glam into insanity for awhile before he was somewhat stable, but even still he has these thoughts he has never really experienced
 
-[[Dimensions/Starfall\|Starfall]]: He landed in Starfall, really just bums around the ship and pranks people
+[[Dimensions/Starfall\|Starfall]]: He landed in Starfall, really just bums around the ship and pranks people. His knight is Hubert ([[Related Characters/Related Characters\|Related Characters]])
 
 [[Dimensions/Pine Ridge\|Pine Ridge]]: You'll have to wait and see
 

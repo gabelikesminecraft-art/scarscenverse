@@ -10,7 +10,9 @@ Eli's Friend (Bottom of the lake)
 [[OCs/Glingus\|Glingus]]
 [[Related Characters/Dave Vulpecula\|Dave Vulpecula]]
 [[Related Characters/Void Parasite\|Void Parasite]]
-
+Sel (Mentioned, Vic's character)
+Voidstar (Mentioned, Sorc's character)
+Hubert (Mentioned, jaden's character)
 
 
 

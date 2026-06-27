@@ -8,7 +8,7 @@ GENDER: He/Him Male Prefered
 SPECIES: [[Species/Robot\|Robot]]
 HEIGHT: 6' 7''
 
-Orion's owner [[Related Characters/Dave Vulpecula\|Dave Vulpecula]] would create The ZL90 Series in secret after [[Events/Dave Vulpecula's Company\|Dave Vulpecula's Company]] under Gensai Industries began to fail after a cover up was found out to be false and it was revealed what actually happened with the first mech testing & general treatment of workers. Orion would be installed with a "sentience chip", this is what would make him special. This chip was in memory of his creator's son. Eventually he was released from his creator's ownership after a swating, and eventually being killed by his creation. Orion would be questioned and be let go but watched for years eventually joining The Emissary under the command of Sel. 
+Orion's owner [[Related Characters/Dave Vulpecula\|Dave Vulpecula]] would create The ZL90 Series in secret after [[Events/Dave Vulpecula's Company\|Dave Vulpecula's Company]] under Gensai Industries began to fail after a cover up was found out to be false and it was revealed what actually happened with the first mech testing & general treatment of workers. Orion would be installed with a "sentience chip", this is what would make him special. This chip was in memory of his creator's son. Eventually he was released from his creator's ownership after a swating, and eventually being killed by his creation. Orion would be questioned and be let go but watched for years eventually joining The Emissary under the command of Sel ([[Related Characters/Related Characters\|Related Characters]]). 
 
 Models of ZL90 were originally combat robots along with other series like ZL60, ZL70, YL75, and BT85
 
