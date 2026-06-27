@@ -8,3 +8,5 @@ important note nothing is permanent and is subject to change
 
 Inspired by cubes page
 
+Click the folders on the left to see everything, or use the graph
+

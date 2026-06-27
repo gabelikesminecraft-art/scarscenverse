@@ -4,7 +4,7 @@
 
 NAME: Eli Jay Tilton
 AGE: 29 (July 7th)
-GENDER: He/Him
+GENDER: He/Him Male
 SPECIES: Human
 HEIGHT: 5' 9''
 

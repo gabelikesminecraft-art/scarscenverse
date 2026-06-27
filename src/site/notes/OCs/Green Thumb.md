@@ -4,7 +4,7 @@
 
 NAME: Gary Glarson, A.k.a "The Green Thumb"
 AGE: 42 (April 17th)
-GENDER: He/Him
+GENDER: He/Him Male
 SPECIES: [[Species/Thumbling(s)\|Thumbling(s)]] (mainly)
 HEIGHT:6' 1'' (usually)
 
