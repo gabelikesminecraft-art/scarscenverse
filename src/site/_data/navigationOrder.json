@@ -1,18 +1,42 @@
 {
   "/": [
     "Home Page",
-    "OCs"
+    "OCs",
+    "Related Characters",
+    "Dimensions",
+    "Species",
+    "Events"
   ],
   "/Home Page": [
     "Welcome to Scarsenverse",
     "Q&A (possibly)"
   ],
   "/OCs": [
-    "Eli",
     "Glam",
-    "Green Thumb",
     "Orion",
+    "Green Thumb",
+    "Tadpole",
     "Skinboy",
-    "Tadpole"
+    "Eli",
+    "Caputs"
+  ],
+  "/Related Characters": [
+    "Related Characters(homepage)"
+  ],
+  "/Dimensions": [
+    "Timelines",
+    "Minecraft",
+    "Pine Ridge",
+    "Starfall",
+    "The Astral Realm"
+  ],
+  "/Species": [
+    "Divine",
+    "Humanoid",
+    "Robot",
+    "Thumblings"
+  ],
+  "/Events": [
+    "Glam's Creation"
   ]
 }
