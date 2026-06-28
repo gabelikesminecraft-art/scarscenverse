@@ -18,12 +18,9 @@ This event would send Glam into insanity for awhile before he was somewhat stabl
 
 [[Dimensions/Starfall\|Starfall]]: He landed in Starfall, really just bums around the ship and pranks people. His knight is Hubert ([[Related Characters/Related Characters\|Related Characters]])
 
-[[Dimensions/Pine Ridge\|Pine Ridge]]: You'll have to wait and see
-
 [[Dimensions/Minecraft\|Minecraft]]: Same thing as Starfall, he usually has a castle of quartz and eats it sometimes
 
-
-
+[[Dimensions/Pine Ridge\|Pine Ridge]]: "The Ugly" is a specter (Who was) caged in a flower and released by Ada ([[Related Characters/Related Characters\|Related Characters]]). When someone is in the area around it they often hallucinate and feel enraged, which is somewhat related to Glam's backstory but not exactly all the same. The Ugly is a representation of wrath, and his main goal is to seek vengeance on the entire town, and a telltale sign that he's around is that smell of onions that stings your nose and makes your eyes watery. Read[[The Ugly's Backstory \| The Ugly's backstory here.]] 
 
 
 [[Home Page/Welcome to Scarsenverse\|Welcome to Scarsenverse]]

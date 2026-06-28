@@ -13,7 +13,7 @@ Eli's Friend (Bottom of the lake)
 Sel (Mentioned, Vic's character)
 Voidstar (Mentioned, Sorc's character)
 Hubert (Mentioned, jaden's character)
-
+Ada (Mentioned, vic's character)
 
 
 [[Home Page/Welcome to Scarsenverse\|Welcome to Scarsenverse]]

@@ -16,7 +16,7 @@ Content Warning(Game): Where he originated from. He would make a device to trave
 
 Neon District: This is where he would meet the [[OCs/Green Thumb\|Green Thumb]] briefly, and try to let him leave this place
 
-[[Dimensions/Pine Ridge\|Pine Ridge]]: He's a mech that films with Ada, and usually repairs them after recordings. He has a ball as a head but can still breath air it just makes his skin dry. 
+[[Dimensions/Pine Ridge\|Pine Ridge]]: He's a mech that films with Ada([[Related Characters/Related Characters\|Related Characters]]), and usually repairs them after recordings. He has a ball as a head but can still breath air it just makes his skin dry. 
 
 
 
